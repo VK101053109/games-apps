@@ -1,0 +1,31 @@
+.line{
+    height: 6px;
+    width: 70px;
+    background-color:black ;
+    margin: 8px auto;
+}
+body{
+    text-align: center;
+}
+#apps{
+    background-color: aliceblue;
+}
+#games img{
+    width: 220px;
+    height: 200px;
+    margin: 20px;
+}
+#games{
+    background-color: lightsalmon;
+}
+#bot{
+    background-color: rgb(122, 146, 255);
+
+}
+#slider img{
+    height: 300px;
+    margin-top: 35px;
+}
+#slider{
+    background-color: red;
+}
